@@ -15,4 +15,4 @@ diffusion models, such as disentanglement of overall colour and shape in images
 and aspects of neural network interpretability. Spectral analysis on natural images
 positions our model as a type of dual to diffusion models.
 
-![](assets/fig/teaser.jpg)
+![](assets/fig/teaser.png)
