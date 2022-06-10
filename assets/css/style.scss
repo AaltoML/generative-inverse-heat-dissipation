@@ -1,0 +1,18 @@
+
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header a {
+	color: #fff;
+}
+
+#main_content_wrap {
+	background: #fff;
+}
+
+#main_content_wrap img {
+  	-webkit-box-shadow: 0px 0px 0px 0px #fff;
+  	box-shadow:         0px 0px 0px 0px #fff;
+}
