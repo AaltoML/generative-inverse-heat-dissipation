@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "Gaussian Process Priors for View-Aware Inference"
-description: "<a href='#'>Yuxin Hou</a>, <a href='#'>Ari Heljakka</a>, and <a href='http://arno.solin.fi'>Arno Solin</a>"
-arxiv: "http://arxiv.org/abs/1912.03249"
+title: "Generative Modeling With Inverse Heat Dissipation"
+description: 
+arxiv: ""
 is_github_public: true
 markdown: kramdown
