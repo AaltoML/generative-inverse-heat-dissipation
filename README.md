@@ -17,9 +17,7 @@ positions our model as a type of dual to diffusion models.
 
 ![](assets/fig/teaser.png)
 
-<image width="70%" controls>
-  <source src="assets/fig/teaser.png">
-</image>
+<img src="assets/fig/teaser.png" alt="drawing" width="70%"/>
 
 <video width="100%" controls>
   <source src="assets/video/afhq_1.mp4" type="video/mp4">
