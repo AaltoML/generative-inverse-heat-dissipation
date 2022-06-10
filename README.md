@@ -17,7 +17,7 @@ positions our model as a type of dual to diffusion models.
 
 ![](assets/fig/teaser.png)
 
-<image width="100%" controls>
+<image width="70%" controls>
   <source src="assets/fig/teaser.png">
 </image>
 
