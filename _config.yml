@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: "Generative Modeling With Inverse Heat Dissipation"
 description: "" 
 arxiv: "todo"
-is_github_public: true
+is_github_public: false
 markdown: kramdown
