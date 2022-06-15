@@ -22,6 +22,6 @@ positions our model as a type of dual to diffusion models.
   Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
 </video>
 <video width="50%" controls>
-  <source src="assets/video/afhq_1.mp4" type="video/mp4">
+  <source src="assets/video/afhq_2.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
 </video>
