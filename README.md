@@ -17,7 +17,7 @@ positions our model as a type of dual to diffusion models.
 
 ![center](assets/fig/teaser.png)
 
-![teaser](assets/fig/teaser.png){:class="center"}
+![teaser](assets/fig/teaser.png){:width="100%"}
 
 [<img src="assets/fig/teaser.png" width="70%" class="center"/>](assets/fig/teaser.png)
 
