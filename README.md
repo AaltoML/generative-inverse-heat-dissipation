@@ -57,6 +57,17 @@ positions our model as a type of dual to diffusion models.
   Your browser does not support the video tag. Download the video <a href="assets/video/ffhq_2.mp4">here</a>.
 </video>
 
+### LSUN-Churches 128x128
+
+<video width="49%" controls>
+  <source src="assets/video/lsun_church_1.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/lsun_church_1.mp4">here</a>.
+</video>
+<video width="49%" controls>
+  <source src="assets/video/lsun_church_2.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/lsun_church_2.mp4">here</a>.
+</video>
+
 ### Sampling with a shared initial state
 
 <video width="70%" controls align="center">
