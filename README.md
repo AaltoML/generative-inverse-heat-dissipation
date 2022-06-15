@@ -17,11 +17,47 @@ positions our model as a type of dual to diffusion models.
 
 <img src="assets/fig/teaser.png" alt="drawing" width="70%"/>
 
+## Sample trajectories
+
+### MNIST
+
+<video width="49%" controls>
+  <source src="assets/video/mnist.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
+</video>
+
+### CIFAR-10
+
+<video width="49%" controls>
+  <source src="assets/video/cifar10.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
+</video>
+
+### AFHQ 256x256
+
 <video width="49%" controls>
   <source src="assets/video/afhq_1.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
 </video>
 <video width="49%" controls>
   <source src="assets/video/afhq_2.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
+</video>
+
+### FFHQ 256x256
+
+<video width="49%" controls>
+  <source src="assets/video/ffhq_1.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
+</video>
+<video width="49%" controls>
+  <source src="assets/video/ffhq_2.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
+</video>
+
+### Sampling with a shared initial state
+
+<video width="70%" controls>
+  <source src="assets/video/afhq64_sameinit_1.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
 </video>
