@@ -1,5 +1,7 @@
 # Generative Modeling With Inverse Heat Dissipation
 
+This website contains sample trajectory visualizations for our paper "Generative Modeling With Inverse Heat Dissipation". 
+
 ## Abstract
 
 While diffusion models have shown great success in image generation, their noise-
@@ -21,7 +23,7 @@ positions our model as a type of dual to diffusion models.
   
 ## Sample trajectories
 
-The iterative generative process can be visualized as a video, showing the smooth change from effective low-resolution to high resolution. Have a look!
+The iterative generative process can be visualized as a video, showing the smooth change from effective low-resolution to high resolution. 
 
 ### MNIST
 
@@ -93,7 +95,6 @@ Starting from the same initial state results in a wide variety of images. Here a
   Your browser does not support the video tag. Download the video <a href="assets/video/afhq64_sameinit_1_a.mp4">here</a>.
 </video>
 </p>
-
   
 <p align="center">
 <video width="70%" controls align="center">
