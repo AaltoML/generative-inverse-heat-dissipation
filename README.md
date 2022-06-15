@@ -17,7 +17,11 @@ positions our model as a type of dual to diffusion models.
 
 <img src="assets/fig/teaser.png" alt="drawing" width="70%"/>
 
-<video width="70%" controls>
+<video width="50%" controls>
+  <source src="assets/video/afhq_1.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
+</video>
+<video width="50%" controls>
   <source src="assets/video/afhq_1.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/independent-low.mp4">here</a>.
 </video>
