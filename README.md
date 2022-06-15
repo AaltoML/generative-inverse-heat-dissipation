@@ -21,8 +21,10 @@ positions our model as a type of dual to diffusion models.
 
 [<img src="assets/fig/teaser.png" width="70%" class="center"/>](assets/fig/teaser.png)
 
+<p align="center">
 <img src="assets/fig/teaser.png" alt="drawing" width="70%" style="text-align: center;"/>
-
+</p>
+  
 ## Sample trajectories
 
 ### MNIST
