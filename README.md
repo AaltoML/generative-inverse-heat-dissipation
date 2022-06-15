@@ -21,6 +21,8 @@ positions our model as a type of dual to diffusion models.
   
 ## Sample trajectories
 
+The iterative generative process can be visualized as a video, showing the smooth change from effective low-resolution to high resolution. Have a look!
+
 ### MNIST
 
 <video width="49%" controls>
@@ -70,7 +72,7 @@ positions our model as a type of dual to diffusion models.
 
 ### Sampling with a shared initial state
 
-If the initial state is 
+One way to visualize the stochasticity of the generative process is to keep the initial draw from the prior fixed and sample multiple trajectories based on it. Large-scale features are decided in the beginning of the process and fine-scale features at the end. If we split the sampling to two parts at specified moments, this results in a hierarchy over scales:
 
 <p align="center">
 <video width="70%" controls align="center">
@@ -79,10 +81,12 @@ If the initial state is
 </video>
 </p>
 
+Starting from the same initial state results in a wide variety of images. Here are examples from a low-resolution version of AFHQ (64x64):
+
 <p align="center">
 <video width="70%" controls align="center">
   <source src="assets/video/afhq64_sameinit_1_a.mp4" type="video/mp4">
-  Your browser does not support the video tag. Download the video <a href="assets/video/afhq64_sameinit_1.mp4">here</a>.
+  Your browser does not support the video tag. Download the video <a href="assets/video/afhq64_sameinit_1_a.mp4">here</a>.
 </video>
 </p>
 
@@ -90,6 +94,6 @@ If the initial state is
 <p align="center">
 <video width="70%" controls align="center">
   <source src="assets/video/afhq64_sameinit_2_a.mp4" type="video/mp4">
-  Your browser does not support the video tag. Download the video <a href="assets/video/afhq64_sameinit_2.mp4">here</a>.
+  Your browser does not support the video tag. Download the video <a href="assets/video/afhq64_sameinit_2_a.mp4">here</a>.
 </video>
 </p>
