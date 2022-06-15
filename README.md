@@ -70,17 +70,26 @@ positions our model as a type of dual to diffusion models.
 
 ### Sampling with a shared initial state
 
+If the initial state is 
+
+<p align="center">
 <video width="70%" controls align="center">
   <source src="assets/video/mnist_hierarchical.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/mnist_hierarchical.mp4">here</a>.
 </video>
+</p>
 
+<p align="center">
 <video width="70%" controls align="center">
   <source src="assets/video/afhq64_sameinit_1_a.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/afhq64_sameinit_1.mp4">here</a>.
 </video>
+</p>
 
+  
+<p align="center">
 <video width="70%" controls align="center">
   <source src="assets/video/afhq64_sameinit_2_a.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/afhq64_sameinit_2.mp4">here</a>.
 </video>
+</p>
