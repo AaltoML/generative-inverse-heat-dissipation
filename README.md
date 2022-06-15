@@ -19,7 +19,7 @@ positions our model as a type of dual to diffusion models.
 
 [<img src="assets/fig/teaser.png" width="70%" class="center"/>](assets/fig/teaser.png)
 
-<img src="assets/fig/teaser.png" alt="drawing" width="70%" class="center"/>
+<img src="assets/fig/teaser.png" alt="drawing" width="70%" style="center"/>
 
 ## Sample trajectories
 
