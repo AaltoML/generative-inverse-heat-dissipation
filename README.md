@@ -23,7 +23,7 @@ positions our model as a type of dual to diffusion models.
   
 ## Sample trajectories
 
-The iterative generative process can be visualized as a video, showing the smooth change from effective low-resolution to high resolution. 
+The iterative generative process can be visualized as a video, showing the smooth change from effective low-resolution to high resolution. Effectively, the model redistributes the mass in the original image to form an image.
 
 ### MNIST
 
