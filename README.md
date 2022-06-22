@@ -29,7 +29,7 @@ The iterative generative process can be visualized as a video, showing the smoot
 </video>
 </p>
   
-### AFHQ 256x256
+### AFHQ 256×256
 
 <video width="49%" controls>
   <source src="assets/video/afhq_1.mp4" type="video/mp4">
