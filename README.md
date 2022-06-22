@@ -40,7 +40,7 @@ The iterative generative process can be visualized as a video, showing the smoot
   Your browser does not support the video tag. Download the video <a href="assets/video/afhq_2.mp4">here</a>.
 </video>
 
-### FFHQ 256x256
+### FFHQ 256×256
 
 <video width="49%" controls>
   <source src="assets/video/ffhq_1.mp4" type="video/mp4">
@@ -51,7 +51,7 @@ The iterative generative process can be visualized as a video, showing the smoot
   Your browser does not support the video tag. Download the video <a href="assets/video/ffhq_2.mp4">here</a>.
 </video>
 
-### LSUN-Churches 128x128
+### LSUN-Churches 128×128
 
 <video width="49%" controls>
   <source src="assets/video/lsun_church_1.mp4" type="video/mp4">
@@ -73,7 +73,7 @@ One way to visualize the stochasticity of the generative process is to keep the 
 </video>
 </p>
 
-Starting from the same initial state results in a wide variety of images. Here are examples from a low-resolution version of AFHQ (64x64):
+Starting from the same initial state results in a wide variety of images. Here are examples from a low-resolution version of AFHQ (64×64):
 
 <p align="center">
 <video width="70%" controls align="center">
