@@ -6,10 +6,11 @@ While diffusion models have shown great success in image generation, their noise
 <p align="center">
 <img src="assets/fig/teaser.png" alt="" width="70%" style="text-align: center;"/>
 </p>
+*Example of the information destroying forward process (during training) and the generative inverse process (sampling), both defined by the PDE.*
   
 ## Sample trajectories
 
-The iterative generative process can be visualized as a video, showing the smooth change from effective low-resolution to high resolution. Effectively, the model redistributes the mass in the original image to form an image.
+We provide generation sequences for different data sets. Generation starts from a flat image and adds progressively more detail. The iterative generative process can be visualized as a video, showing the smooth change from effective low-resolution to high resolution. Effectively, the model redistributes the mass in the original image to form an image.
 
 ### MNIST
 
