@@ -1,6 +1,24 @@
-theme: jekyll-theme-cayman
-title: "Generative Modeling With Inverse Heat Dissipation"
-description: "" 
-arxiv: "todo"
-is_github_public: true
+
+baseurl: "https://aaltoml.github.io/generative-inverse-heat-dissipation/"
+
+color-scheme: "#334279"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+
+title: "Generative Modelling With Inverse Heat Dissipation"
+
+description: "Severi Rissanen · [Markus Heinonen](https://users.aalto.fi/~heinom10/) · [Arno Solin](http://arno.solin.fi)" 
+
+arxiv: https://arxiv.org/abs/2206.13397
+
+is_github_public: false
+
 markdown: kramdown
