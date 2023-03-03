@@ -84,13 +84,6 @@ One way to visualize the stochasticity of the generative process is to keep the 
 </video>
 </p>
 
-<p align="center">
-<video width="70% controls align="center>
-    <source src="assets/video/mnist_hierarchical.mp4" type="video/mp4">
-  Your browser does not support the video tag. Download the video <a href="assets/video/mnist_hierarchical.mp4">here</a>.
-</video>
-</p>
-
 Starting from the same initial state results in a wide variety of images. Here are examples from a low-resolution version of AFHQ (64×64):
 
 <p align="center">
