@@ -78,7 +78,7 @@ python evaluate.py --config configs/cifar10/default_cifar10_configs.py
 ```
 
 ### NLL values
-The result contains a breakdown of the different terms
+The result contains a breakdown of the different terms in the NLL.
 
 ```bash
 python evaluate.py --config configs/cifar10/default_cifar10_configs.py
