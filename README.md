@@ -78,6 +78,13 @@ Qualitatively, interpolations in the full latent space of the model are smoother
 One way to visualize the stochasticity of the generative process is to keep the initial draw from the prior fixed and sample multiple trajectories based on it. Large-scale features are decided in the beginning of the process and fine-scale features at the end. If we split the sampling to two parts at specified moments, this results in a hierarchy over scales:
 
 <p align="center">
+<video width="70%" controls align="center">
+  <source src="assets/video/mnist_hierarchical.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video <a href="assets/video/mnist_hierarchical.mp4">here</a>.
+</video>
+</p>
+
+<p align="center">
 <video width="70% controls align="center>
     <source src="assets/video/mnist_hierarchical.mp4" type="video/mp4">
   Your browser does not support the video tag. Download the video <a href="assets/video/mnist_hierarchical.mp4">here</a>.
