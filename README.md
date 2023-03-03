@@ -66,10 +66,12 @@ We provide generation sequences for different data sets. Generation starts from 
 
 Qualitatively, interpolations in the full latent space of the model are smoother than the corresponding interpolations in a standard diffusion model. This is also the case when comparing interpolations using DDIM, a deterministic sampler. 
 
+<p align="center">
 <video width="70% controls align="center>
     <source src="assets/video/interpolations.mp4" type="video/mp4">
 Your browser does not support the video tag. Download the video <a href="assets/video/interpolations.mp4">here</a>.
 </video>
+</p>
 
 ### Sampling with a shared initial state
 
